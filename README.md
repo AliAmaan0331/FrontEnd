@@ -8,3 +8,4 @@ The two main entities we have are users and places.
 
 npm packages installed:
 1) npm install --save react-router-dom@5 --save-exact
+2)npm i react-transition-group
