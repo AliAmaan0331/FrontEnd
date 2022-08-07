@@ -1,9 +1,10 @@
+import React from 'react';
+import ModalPopup from '../components/ModalPopup';
+
 const NewPlace = () => {
-    return(
+    return (
         <>
-            <div>
-                <h2>Hello</h2>
-            </div>
+            <ModalPopup/>
         </>
     )
 }

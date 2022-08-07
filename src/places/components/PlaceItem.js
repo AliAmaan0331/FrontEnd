@@ -1,5 +1,3 @@
-import React, { useState } from 'react';
-
 import Card from '../../shared/components/UIElements/Card';
 import './PlaceItem.css';
 import Button from "../../shared/components/FormElements/Button";
